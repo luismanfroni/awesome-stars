@@ -304,7 +304,7 @@
 - [workerize-loader](https://github.com/developit/workerize-loader) - 🏗️ Automatically move a module into a Web Worker (Webpack loader)  
 - [git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository  
 - [linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library  
-- [zero](https://github.com/remoteinterview/zero) - 0⃣Zero is a web server to simplify web development.  
+- [zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.  
 - [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js  
 - [frontend](https://github.com/catolicasc-social/frontend) - Restaurante Popular Frontend  
 - [api](https://github.com/catolicasc-social/api) - Restaurante Popular Api  
