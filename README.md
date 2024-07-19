@@ -2399,7 +2399,7 @@
 | 32 |  [nx](https://github.com/nrwl/nx) | Smart Monorepos · Fast CI | nrwl | 22718 |
 | 33 |  [petite-vue](https://github.com/vuejs/petite-vue) | 6kb subset of Vue optimized for progressive enhancement | vuejs | 8930 |
 | 34 |  [utopia](https://github.com/concrete-utopia/utopia) | Design ❤️ Code | concrete-utopia | 3742 |
-| 35 |  [focalboard](https://github.com/mattermost/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | mattermost | 20821 |
+| 35 |  [focalboard](https://github.com/mattermost/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | mattermost | 20822 |
 | 36 |  [astro](https://github.com/withastro/astro) | The web framework for content-driven websites. ⭐️ Star to support our work! | withastro | 44315 |
 | 37 |  [autocomplete](https://github.com/withfig/autocomplete) | IDE-style autocomplete for your existing terminal &amp; shell | withfig | 24404 |
 | 38 |  [nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) | Deploy your own Notion-powered website in minutes with Next.js and Vercel. | transitive-bullshit | 6007 |
